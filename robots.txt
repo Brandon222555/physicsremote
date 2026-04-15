@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brandon222555.github.io/physicsremote/sitemap.xml
